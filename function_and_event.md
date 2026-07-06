@@ -13,12 +13,12 @@ C --> D[Returns Result]
 ---
 
 ## Why use functions?
-[x] Reusability
-[x] Maintainability
-[x] Organised code
-[x] Easy debugging
-[x] Better readability
-[x] Unit Testing
+-Reusability<br>
+-Maintainability<br>
+-Organised code<br>
+-Easy debugging<br>
+-Better readability<br>
+-Unit Testing
 
 ---
 ## Ideal function
