@@ -1,21 +1,7 @@
 
 # 🌐 API & HTTP Basics Notes
 
-> Beginner-friendly notes covering JSON, Stateless HTTP, APIs, CRUD, HTTP Methods, Status Codes, URLs, and Authentication.
-
----
-
-# 📚 Table of Contents
-
-- [1. What is JSON?](#1-what-is-json)
-- [2. Stateless Protocol](#2-stateless-protocol)
-- [3. What is an API?](#3-what-is-an-api)
-- [4. Resources (Frontend & Backend)](#4-resources-frontend--backend)
-- [5. CRUD Operations](#5-crud-operations)
-- [6. HTTP Methods (Verbs)](#6-http-methods-verbs)
-- [7. HTTP Status Codes](#7-http-status-codes)
-- [8. URL Explained](#8-url-explained)
-- [9. Authentication Basics](#9-authentication-basics)
+> Notes covering JSON, Stateless HTTP, APIs, CRUD, HTTP Methods, Status Codes, URLs, and Authentication.
 
 ---
 
@@ -57,8 +43,8 @@ Although it originated from JavaScript, JSON is language-independent and support
 
 ```json
 {
-  "age": 20    //✅ Correct
-  age: 20     //❌ Wrong
+  "age": 20    //Correct
+  age: 20     //Wrong
 }
 ```
 ---
